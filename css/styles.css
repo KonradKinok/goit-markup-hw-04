@@ -405,13 +405,13 @@ body{
     gap: 16px
 }
 
-.footer .socialmedia-link-icon:hover
+.footer .socialmedia-link-icon:hover,
 .footer .socialmedia-link-icon:focus
 {
     background-color: var(--green);
 }
 
-/* page Portfolio */
+/* Portfolio */
 .section-portfolio{
     padding: 96px 0 120px 0;
 }
