@@ -202,7 +202,7 @@ body{
 }
 
 .socialmedia-link-icon:hover,
-.socialmedia-link-icon:focus
+.socialmedia-link-icon:focus,
 .button-orderservice:hover,
 .button-orderservice:focus {
     background: var(--ocean);
@@ -398,6 +398,7 @@ body{
     line-height: 1.5;
     color: var(--white);
     margin-bottom: 16px;
+    letter-spacing: 0.02em;
 }
 
 .footer .socialmedia-list-icons{
@@ -405,6 +406,7 @@ body{
 }
 
 .footer .socialmedia-link-icon:hover
+.footer .socialmedia-link-icon:focus
 {
     background-color: var(--green);
 }
